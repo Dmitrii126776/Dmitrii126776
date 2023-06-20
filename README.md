@@ -1,11 +1,11 @@
-<h1>Hi 👋 My name is Dmitrii Kuzhilin</h1>
+<h1>Hi 👋 My name is Dima Kuzhilin</h1>
 
 <h2>I'm Frontend Developer who loves to build cool things</h2> 
 
 * 🌍  I'm based in New York, NY
-* ✉️  You can contact me at [kuzhilind@gmail.com](mailto:kuzhilind@gmail.com)
+* ✉️  You can contact me at [dimonkuzhilin@gmail.com](mailto:kuzhilind@gmail.com)
 * 🧠  I'm learning Next.js and GraphQL
-* 🤝  I'm open to collaborating on Projects
+* 🤝  You can see my personal Projects here: <a href="https://client-mern-auth.netlify.app/" target="_blank" >ClientApp</a>
 
 ### Skills and Tools
 
