@@ -5,7 +5,7 @@
 * 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [dimonkuzhilin@gmail.com](mailto:kuzhilind@gmail.com)
 * 🧠  I'm learning Next.js and GraphQL
-* 🤝  You can see my personal Projects here: <a href="https://client-mern-auth.netlify.app/" target="_blank" rel="noreferrer">ClientApp</a>
+* 🤝  You can see my personal Projects here: <a href="https://client-mern-auth.netlify.app/" target="_blank" rel="noopener noreferrer">ClientApp</a>
 
 ### Skills and Tools
 
