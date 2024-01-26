@@ -2,7 +2,7 @@
 
 <h2>I'm a Software Developer in Test who loves to build cool things</h2> 
 
-* 🌍 I'm based in New York, NY
+* 🌍 I'm based in **New York, NY, United States**
 * 🔭 I’m currently using **Java, Javascript, Selenium, Cypress, GitHub Actions, Jenkins, and Docker**
 * 👯 I’m looking to collaborate on **Cypress, Selenium, Playwright**
 * 🧠 I’m currently learning **new automation techniques**
